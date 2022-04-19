@@ -22,12 +22,12 @@
 
 ***Activate Windows*** watermark is removed with Registry Editor configuration without activating Windows with any product key. 
 However, as a result of this process, the watermark is not completely removed.
-It may appear again after an average of 3-4 hours while using your computer, in this case simply reboot your system without running this script.
+It may appear again after an average of 3-4 hours while using your computer, in this case simply restart your system with this script.
 <br>
 On the other hand, the ***System does not meet requirements*** watermark is permanently removed with the Registry Editor configuration.
 <br>
 <br>
-Winmark Disabler leaves nothing to follow you on your system, you can delete it after first use.
+__Winmark Disabler leaves nothing to follow you on your system.__
 
 <!-- LICENSE -->
 <h2>License</h2>
